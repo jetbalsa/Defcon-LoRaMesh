@@ -1,7 +1,9 @@
 THIS FILE IS IN PROGRESS
 ##
 
-Using a RFM95, RA-01. or RA-02 LoRA 900Mhz Radio
+Using a RFM95, RA-01. or RA-02 LoRA <strong>900Mhz Radio</strong>
+
+You MUST use a 900Mhz radio in the USA, 433Mhz LoRa is not allowed!
 
 The basics is to broadcast a message out of the status display or some message. For HatChan I plan on broadcasting latest posts, GPS Coords, GPS Time, 
 
