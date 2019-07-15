@@ -5,6 +5,8 @@ Using a RFM95, RA-01. or RA-02 LoRA <strong>900Mhz Radio</strong>
 
 You MUST use a 900Mhz radio in the USA, 433Mhz LoRa is not allowed!
 
+If you use 433Mhz LoRa, All the Ham Radio nerds will hunt you down and shoot you :P
+
 The basics is to broadcast a message out of the status display or some message. For HatChan I plan on broadcasting latest posts, GPS Coords, GPS Time, 
 
 For things like the guy who does the Wifi APs, you can publish a list of APs currently.
