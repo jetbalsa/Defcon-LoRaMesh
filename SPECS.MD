@@ -16,15 +16,15 @@ CALLSIGN|MSGTYPE|MSGID|MSGLEN|MESSAGE
 
 Lengths
 
-8|1|5|5|65535
+8|2|5|5|65535
 
 thats 8 Letters max for Callsign, One int for msgtype, a unsigned int for msgid and msglen(so its max size is 65535, loop once overflow) then message is 65535 ASCII letters long.
 
 Example Message
 Type 1 Messages are Replace, Ment for status panels and things
 
-HATCHAN|1|00001|00168|HatChan - The Hat Mounted Image Board\r\nGPS Lat:-77.123 Lon:34.2993\r\nGPS Time:1563195409\r\nLatest Posts:\r\n* Posting for Hatchan for the first....\r\n* First Post!
+HATCHAN|01|00001|00168|HatChan - The Hat Mounted Image Board\r\nGPS Lat:-77.123 Lon:34.2993\r\nGPS Time:1563195409\r\nLatest Posts:\r\n* Posting for Hatchan for the first....\r\n* First Post!
 
 For Chat Messages, Use Proto 2 (ment for a appended log of messages)
 
-JRWR|2|00001|00035|Cool Story Bro, I hope it works out
+JRWR|02|00001|00035|Cool Story Bro, I hope it works out
