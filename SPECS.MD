@@ -12,7 +12,7 @@ I'm working on the protocol now once I get my radios in (7/16/2019)
 
 So, I'm thinking something like
 
-CALLSIGN|PROTOVERSION|MSGID|MSGLEN||MESSAGE
+CALLSIGN|PROTOVERSION|MSGID|MSGLEN|MESSAGE
 
 Lengths
 
