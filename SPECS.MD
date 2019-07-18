@@ -31,7 +31,7 @@ HATCHAN|01|64|A8|HatChan - The Hat Mounted Image Board\r\nGPS Lat:-77.123 Lon:34
 
 For Chat Messages, Use Proto 2 (ment for a appended log of messages)
 
-JRWR|02|64|00035|Cool Story Bro, I hope it works out
+JRWR|02|64|35|Cool Story Bro, I hope it works out
 
 ====================================
 
