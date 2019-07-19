@@ -1,0 +1,35 @@
+HATCHAN|01|001F|0533|
+
+Hello, this is a test string for hatchan, the hat mounted image board.
+This is to test the current text output. I am using a SDR to reply the messages back to my radio.
+
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+* This is a line Item, Its really cool!
+|001F|HATCHAN
