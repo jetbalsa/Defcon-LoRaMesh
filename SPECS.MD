@@ -36,5 +36,5 @@ JRWR|02|64|35|Cool Story Bro, I hope it works out
 ====================================
 
 RADIO SETTINGS
+915.0MHz, 13dBm, Bw = 125 kHz, Cr = 4/5, Sf = 128chips/symbol, CRC on
 
-915Mhz SF7 (Using the RadioHead Libs)
