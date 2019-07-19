@@ -1,10 +1,9 @@
-// Feather9x_TX
+// Defcon-LORA
+//Use "<YOUR TXT STRING>" to XMIT YOUR DATA
+//Data comming in will star with DATSTART and end with DATEND
+//TEST YOUR SHIT YO, A Shitty SDR can reply back packets for testing :)
 // -*- mode: C++ -*-
-// Example sketch showing how to create a simple messaging client (transmitter)
-// with the RH_RF95 class. RH_RF95 class does not provide for addressing or
-// reliability, so you should only use RH_RF95 if you do not need the higher
-// level messaging abilities.
-// It is designed to work with the other example Feather9x_RX
+
 
 #include <SPI.h>
 #include <RH_RF95.h>
